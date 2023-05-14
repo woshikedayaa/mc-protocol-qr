@@ -1,0 +1,5 @@
+package mcprotocolqr
+
+func init() {
+
+}
